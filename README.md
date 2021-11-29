@@ -12,7 +12,13 @@ To enable such a mapping, we have used a third-party [plugin](https://gsuite.goo
 
 We then used the Community Boundary GeoJSON dataset from the City of Chicago [data portal](https://data.cityofchicago.org/Facilities-Geographic-Boundaries/Boundaries-Community-Areas-current-/cauq-8yn6) to map each provider’s Lat-Long to the Chicago community area names they belong to.
 
-![](https://github.com/smarthxg/chicago-vaccine-inequity/blob/main/provider_viz.png)
+### COVID-19 vaccination sites were more concentrated downtown, on North Side
+#### Vaccine distribution centers in Chicago
+![image](https://user-images.githubusercontent.com/91643874/143952466-7d659a96-3e72-456d-b14e-0e342a48b192.png)
+
+**Source:** [Chicago Department of Public Health vaccine supply data (January through September, 2021)](https://github.com/MuckRock/chicago-vaccine-inequity/blob/main/doses_by_provider.csv).
+
+**Visualization:** Charmaine Runes/WBEZ and Smarth Gupta/Documenting COVID-19.
 
 The Graph above shows a mapping of each provider to the appropriate Community Area Name and gives an idea of the distribution of providers in general.
 
